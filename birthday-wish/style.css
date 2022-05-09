@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    
+    background:rgba(0,0,0,0.85) url("https://wallpaperaccess.com/full/1223823.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+}
+    
+
+.headlien {
+    color: white;
+    
+    font-family: arial;
+    font-size: 20px;
+    padding-top: 5%;
+}
+
+.para {
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.286);
+    padding: 30px;
+    
+    
+}
+
+
+
+
+.para2 {
+    text-align: center;
+    background-color: rgba(0, 255, 225, 0.286);
+    padding: 30px;
+    padding-top: 10px;
+    
+}
